@@ -1,0 +1,9 @@
+pandas
+numpy==1.24.4
+matplotlib
+seaborn
+nltk
+scikit-learn
+streamlit
+fastapi
+uvicorn
